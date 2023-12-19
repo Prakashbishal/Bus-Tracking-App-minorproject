@@ -1,0 +1,254 @@
+[
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_ic_menu_gallery.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\ic_menu_gallery.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\layout_activity_main.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_bustop.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\bustop.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\raw_animationlocation.json.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\raw\\animationlocation.json"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_bishal.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\bishal.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_buslogo.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\buslogo.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_onelinebus.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\onelinebus.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\raw_animationbus.json.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\raw\\animationbus.json"
+    },
+    {
+        "merged": "com.example.minorproject.app-merged_res-65:/layout_fragment_home.xml.flat",
+        "source": "com.example.minorproject.app-main-67:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\menu_bottom_nav_menu.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\menu\\bottom_nav_menu.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_ic_menu_camera.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\ic_menu_camera.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\raw_animation_lnudn8iy.json.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\raw\\animation_lnudn8iy.json"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\raw_splash_video.mp4.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\raw\\splash_video.mp4"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\layout_fragment_home.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_ic_visibility.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\ic_visibility.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_logo1.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\logo1.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\layout_fragment_bus.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\layout\\fragment_bus.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_ic_menu_slideshow.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\ic_menu_slideshow.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\raw_animationbuss.json.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\raw\\animationbuss.json"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\layout_fragment_about.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\layout\\fragment_about.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_round_back_green.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\round_back_green.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_vikas.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\vikas.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_person.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\person.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_logout.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_ic_visibility_off.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\ic_visibility_off.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_google.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\google.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_logo.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\logo.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\layout_activity_welcome.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_student.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\student.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\raw_img.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\raw\\img.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_busblue.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\busblue.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\layout_activity_password_change.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\layout\\activity_password_change.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_round_back_red.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\round_back_red.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_kyrshan.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\kyrshan.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_bus.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\bus.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\layout_custom_info_window.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\layout\\custom_info_window.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_bus_icon.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\bus_icon.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_custom_text.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\custom_text.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_side_nav_bar.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\side_nav_bar.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\layout_activity_maps.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_home_icon.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\home_icon.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_location_icon.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\location_icon.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_buslogowhite.png.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\buslogowhite.png"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\drawable_round_corner.xml.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\drawable\\round_corner.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-merged_res-65:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\mipmap-hdpi\\ic_launcher_round.webp"
+    }
+]

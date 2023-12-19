@@ -1,0 +1,56 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/my_secondary"
+    tools:context=".HomeFragment">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:gravity="center"
+        android:background="@color/bgblue">
+
+        <ImageView
+            android:src="@drawable/onelinebus"
+            android:layout_width="400dp"
+            android:layout_height="200dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/welcome_student"
+            android:textColor="#003F91"
+            android:fontFamily="sans-serif-black"
+            android:textSize="32sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:text="@string/ready_for_uni"
+            android:textColor="#003F91"
+            android:fontFamily="sans-serif-black"
+            android:textSize="20sp" />
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/TrackBtn"
+            android:layout_width="125dp"
+            android:layout_height="60dp"
+            android:layout_marginBottom="5dp"
+            android:text="@string/track"
+            />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:text="@string/click_on_track_now"
+            android:textColor="#003F91"
+            android:fontFamily="sans-serif-black"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+</FrameLayout>

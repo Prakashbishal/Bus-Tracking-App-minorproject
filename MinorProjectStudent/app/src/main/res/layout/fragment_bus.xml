@@ -1,0 +1,140 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bgblue"
+    tools:context=".BusFragment">
+
+    <com.google.android.material.navigation.NavigationView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/my_primary"
+        android:paddingTop="50dp" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:padding="12dp"
+        android:orientation="vertical">
+<ImageView
+    android:layout_width="50dp"
+    android:layout_height="50dp"
+    android:src="@drawable/bus_icon"
+    android:layout_gravity="center"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Bus Details"
+            android:textSize="26sp"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:fontFamily="sans-serif-medium"
+            android:textColor="#003F91"
+            android:paddingBottom="30dp"
+            />
+    <!-- Bus Mawiong -->
+
+        <TextView
+            android:id="@+id/busMawiong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bus Mawiong (ML-05-F-2266)"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/busMawiongTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Time: 10:00 AM - 12:00 PM"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/busMawiongRoute"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Route: From Bus Stop A to Bus Stop B"
+            android:textSize="17sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="..........................................................................................."
+            android:fontFamily="sans-serif-medium"
+            android:textSize="15sp"
+            android:layout_gravity="center"
+            android:paddingBottom="10dp"/>
+
+
+    <!-- Bus Mawlai -->
+
+
+        <TextView
+            android:id="@+id/busMawlai"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bus Mawlai (ML-07-G-5467)"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/busMawlaiTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Time: 12:00 PM - 2:00 PM"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/busMawlaiRoute"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Route: From Bus Stop C to Bus Stop D"
+            android:textSize="17sp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="..........................................................................................."
+            android:fontFamily="sans-serif-medium"
+            android:textSize="15sp"
+            android:layout_gravity="center"
+            android:paddingBottom="10dp"/>
+
+
+    <!-- Bus Polo -->
+
+        <TextView
+            android:id="@+id/busPolo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bus Polo (ML-12-B-8899)"
+            android:textSize="18sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/busPoloTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Time: 2:00 PM - 4:00 PM"
+            android:textSize="17sp" />
+
+        <TextView
+            android:id="@+id/busPoloRoute"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Route: From Bus Stop E to Bus Stop F"
+            android:textSize="17sp" />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="..........................................................................................."
+            android:fontFamily="sans-serif-medium"
+            android:textSize="15sp"
+            android:layout_gravity="center"
+            android:paddingBottom="10dp"/>
+    </LinearLayout>
+
+
+    <!-- Add similar layouts for other buses -->
+
+</FrameLayout>

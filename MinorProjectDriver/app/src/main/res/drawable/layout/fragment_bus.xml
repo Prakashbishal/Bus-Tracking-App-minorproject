@@ -1,0 +1,120 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bgblue"
+    tools:context=".BusFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bus Details"
+        android:textSize="35dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_marginTop="30dp"
+        android:textColor="#003F91"
+        />
+    <!-- Bus Mawiong -->
+    <LinearLayout
+        android:id="@+id/layoutBusMawiong"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_marginTop="115dp"
+        android:background="@drawable/round_corner"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/busMawiong"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bus Mawiong (ML-05-F-2266)"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/busMawiongTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Time: 10:00 AM - 12:00 PM"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/busMawiongRoute"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Route: From Bus Stop A to Bus Stop B"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <!-- Bus Mawlai -->
+    <LinearLayout
+        android:id="@+id/layoutBusMawlai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp"
+        android:background="@drawable/round_corner"
+        android:layout_marginTop="235dp">
+
+        <TextView
+            android:id="@+id/busMawlai"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bus Mawlai (ML-07-G-5467)"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/busMawlaiTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Time: 12:00 PM - 2:00 PM"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/busMawlaiRoute"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Route: From Bus Stop C to Bus Stop D"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <!-- Bus Polo -->
+    <LinearLayout
+        android:id="@+id/layoutBusPolo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="355dp"
+        android:background="@drawable/round_corner"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:id="@+id/busPolo"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bus Polo (ML-12-B-8899)"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/busPoloTime"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Time: 2:00 PM - 4:00 PM"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/busPoloRoute"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Route: From Bus Stop E to Bus Stop F"
+            android:textSize="18sp" />
+    </LinearLayout>
+
+    <!-- Add similar layouts for other buses -->
+
+</FrameLayout>

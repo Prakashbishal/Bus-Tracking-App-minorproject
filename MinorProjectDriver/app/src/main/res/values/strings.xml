@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Driver App</string>
+
+    <string name="don_t_have_an_account_sign_up_now">Don\'t have an account? Sign up now</string>
+    <string name="or_sign_in_with">Or sign in with</string>
+    <string name="sign_in">Sign in</string>
+    <string name="please_sign_in_with_your_information">Please sign in with your information</string>
+    <string name="welcome">Welcome</string>
+    <string name="email_address">Email Address</string>
+    <string name="abc_gmail_com">2005020050</string>
+    <string name="password">Password</string>
+    <string name="forgot_password">Forgot password</string>
+    <string name="bus_tracking">Bus Tracking Driver App</string>
+    <string name="already_have_an_account_sign_in">Already have an account? Sign in</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="bus_trackin">Bus Tracking</string>
+    <string name="welcom">Welcome</string>
+    <string name="please_sign_up_with_your_information">Please Sign up with your information</string>
+    <string name="name">Name</string>
+    <string name="enter_full_name">Enter full name</string>
+    <string name="roll_no">Roll no</string>
+    <string name="enter_roll_no">Enter roll no</string>
+    <string name="department">ID Number</string>
+    <string name="enter_department_name">Enter ID Number</string>
+    <string name="enter_email">Enter email</string>
+    <string name="enter_password">Enter password</string>
+    <string name="logout">Logout</string>
+    <string name="logou2">Logout</string>
+    <string name="welcome_captain">Welcome Captain</string>
+    <string name="Duty">Duty</string>
+    <string name="turn_on_duty_to_start_your_journey_toda">Turn ON Duty to start your journey today</string>
+    <string name="turn_on_duty_to_start_your_journey_today">Turn ON Duty to start your journey today</string>
+
+</resources>

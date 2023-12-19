@@ -1,0 +1,50 @@
+[
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-mergeDebugResources-64:\\layout\\activity_forgot_password.xml",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-mergeDebugResources-64:\\layout\\activity_maps.xml",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\layout\\activity_maps.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-mergeDebugResources-64:\\layout\\custom_info_window.xml",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\layout\\custom_info_window.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-mergeDebugResources-64:\\layout\\activity_splash.xml",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-mergeDebugResources-64:\\layout\\fragment_bus.xml",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\layout\\fragment_bus.xml"
+    },
+    {
+        "merged": "com.example.minorproject.app-mergeDebugResources-64:/layout/fragment_home.xml",
+        "source": "com.example.minorproject.app-main-67:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-mergeDebugResources-64:\\layout\\activity_welcome.xml",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-mergeDebugResources-64:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-mergeDebugResources-64:\\layout\\activity_main.xml",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-mergeDebugResources-64:\\layout\\fragment_home.xml",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\layout\\fragment_home.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-mergeDebugResources-64:\\layout\\activity_password_change.xml",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\layout\\activity_password_change.xml"
+    },
+    {
+        "merged": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-mergeDebugResources-64:\\layout\\fragment_about.xml",
+        "source": "C:\\Program Files\\Android\\Android Studio1\\jbr\\daemon\\8.0\\com.example.minorproject.app-main-67:\\layout\\fragment_about.xml"
+    }
+]

@@ -1,0 +1,160 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bgblue"
+    tools:context=".BusFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Meet the Developers"
+        android:textSize="35dp"
+        android:textStyle="bold"
+        android:gravity="center"
+        android:fontFamily="sans-serif-condensed"
+        android:layout_marginTop="30dp"
+        android:textColor="#003F91" />
+
+    <!-- Bus Mawiong -->
+    <LinearLayout
+        android:id="@+id/layoutBusMawiong"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:layout_marginTop="135dp"
+        android:background="@drawable/round_corner"
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/imageView1"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/bishal" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/busMawiong"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Bishal Kumar Pandey"
+                android:textSize="26sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/busMawiongTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Team Leader"
+                android:textStyle="bold"
+                android:textSize="20sp" />
+
+            <TextView
+                android:id="@+id/busMawiongRoute"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Roll No:- 20BTECHIT05"
+                android:textSize="20sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Bus Mawlai -->
+    <LinearLayout
+        android:id="@+id/layoutBusMawlai"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="16dp"
+        android:background="@drawable/round_corner"
+        android:layout_marginTop="275dp">
+
+        <ImageView
+            android:id="@+id/imageView2"
+            android:layout_width="90dp"
+            android:layout_height="100dp"
+            android:src="@drawable/kyrshan" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="12dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/busMawlai"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Kyrshanborlang L Nonglait"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/busMawlaiTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Team Member"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/busMawlaiRoute"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Roll No: - 21BTECHLIT10"
+                android:textSize="18sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Bus Polo -->
+    <LinearLayout
+        android:id="@+id/layoutBusPolo"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="424dp"
+        android:background="@drawable/round_corner"
+        android:orientation="horizontal"
+        android:padding="16dp">
+
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:src="@drawable/vikas" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="8dp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/busPolo"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Vikas Kumar Vidyarthi"
+                android:textSize="24sp"
+                android:textStyle="bold" />
+
+            <TextView
+                android:id="@+id/busPoloTime"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Team Member"
+                android:textSize="18sp" />
+
+            <TextView
+                android:id="@+id/busPoloRoute"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Roll No:- 20BTECHIT08"
+                android:textSize="18sp" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <!-- Add similar layouts for other buses -->
+
+</FrameLayout>

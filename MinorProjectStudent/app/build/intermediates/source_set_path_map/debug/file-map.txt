@@ -1,0 +1,67 @@
+com.example.minorproject.app-lifecycle-livedata-core-2.6.2-0 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\02e9a826d3282f444fe468da2523a6b3\transformed\lifecycle-livedata-core-2.6.2\res
+com.example.minorproject.app-material3-1.0.0-1 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\039ba442875c3ed0350c8d3e7cb83c1e\transformed\material3-1.0.0\res
+com.example.minorproject.app-annotation-experimental-1.3.0-2 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\09324ba1ef6ba3cab1a2221f625e9980\transformed\annotation-experimental-1.3.0\res
+com.example.minorproject.app-emoji2-1.3.0-3 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\0933dbc4744423d14b46458f150f3d13\transformed\emoji2-1.3.0\res
+com.example.minorproject.app-customview-poolingcontainer-1.0.0-4 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\0acc7d6bda7756992a117e3eeec456bd\transformed\customview-poolingcontainer-1.0.0\res
+com.example.minorproject.app-viewpager2-1.0.0-5 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\0f4d2598d9e747b7ddcac8c6d009c9af\transformed\viewpager2-1.0.0\res
+com.example.minorproject.app-lottie-3.7.0-6 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\17ab8e63750220a08df265b088714631\transformed\lottie-3.7.0\res
+com.example.minorproject.app-fragment-1.3.6-7 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\195560f315d831ddc44fabfbb435e251\transformed\fragment-1.3.6\res
+com.example.minorproject.app-cardview-1.0.0-8 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\1acbe843263ea71b06984330b6155b92\transformed\cardview-1.0.0\res
+com.example.minorproject.app-foundation-layout-1.4.0-9 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\1c0c0a072cf598398739a993da9ae6fd\transformed\foundation-layout-1.4.0\res
+com.example.minorproject.app-recyclerview-1.1.0-10 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\1e771c4de57df70aec841fd8c5c1be79\transformed\recyclerview-1.1.0\res
+com.example.minorproject.app-lifecycle-viewmodel-ktx-2.6.2-11 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\2a51f63c32d6268f6269ef47ba2bb413\transformed\lifecycle-viewmodel-ktx-2.6.2\res
+com.example.minorproject.app-runtime-1.4.0-12 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\2b1d9ed5e60987390baf7b3dbbaddb76\transformed\runtime-1.4.0\res
+com.example.minorproject.app-appcompat-resources-1.6.1-13 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\302e5a7975b33e1fefbf227895ed9731\transformed\appcompat-resources-1.6.1\res
+com.example.minorproject.app-drawerlayout-1.1.1-14 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\33422ee9852a04c88287cf960ab22d5e\transformed\drawerlayout-1.1.1\res
+com.example.minorproject.app-activity-compose-1.7.2-15 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\36b3be3284029d985ad0c7d608640bce\transformed\activity-compose-1.7.2\res
+com.example.minorproject.app-ui-test-manifest-1.4.0-16 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\3707b5edbacba4bc7b4625c9b8375940\transformed\ui-test-manifest-1.4.0\res
+com.example.minorproject.app-savedstate-1.2.1-17 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\384ce4ef979883a605a6b1f24b554160\transformed\savedstate-1.2.1\res
+com.example.minorproject.app-constraintlayout-2.1.4-18 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\3ef6ecb16bbde28a8d1aee818203f18f\transformed\constraintlayout-2.1.4\res
+com.example.minorproject.app-animation-core-1.4.0-19 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\416f674aee5fb9cb7c6418ef1b1bb9a6\transformed\animation-core-1.4.0\res
+com.example.minorproject.app-lifecycle-runtime-2.6.2-20 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\497c025ced7f382f95c1d03646c664a9\transformed\lifecycle-runtime-2.6.2\res
+com.example.minorproject.app-lifecycle-viewmodel-2.6.2-21 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\4b465970c91b5d7be5ea4e60133f1e2a\transformed\lifecycle-viewmodel-2.6.2\res
+com.example.minorproject.app-firebase-common-20.3.3-22 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\4e07280a2bae11e1056089fbcd83720c\transformed\firebase-common-20.3.3\res
+com.example.minorproject.app-lifecycle-process-2.6.2-23 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\529cd3ef631d862387c15c667bb9a33f\transformed\lifecycle-process-2.6.2\res
+com.example.minorproject.app-foundation-1.4.0-24 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\57077a075d0f880af580171337847bbf\transformed\foundation-1.4.0\res
+com.example.minorproject.app-startup-runtime-1.1.1-25 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\589b91a91029b049daf3da6714552771\transformed\startup-runtime-1.1.1\res
+com.example.minorproject.app-ui-tooling-1.4.0-26 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\5b8750d0964fbed7a0aa6cc6b140bc58\transformed\ui-tooling-1.4.0\res
+com.example.minorproject.app-play-services-places-17.0.0-27 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\5cfa3b4d5e35bd755b3d64990a24a2b8\transformed\play-services-places-17.0.0\res
+com.example.minorproject.app-ui-util-1.4.0-28 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\6c767e17e2b76fdd1d975b7d17df7631\transformed\ui-util-1.4.0\res
+com.example.minorproject.app-ui-tooling-data-1.4.0-29 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\6edb68c94a24f0cc2ea24574a34fd6d2\transformed\ui-tooling-data-1.4.0\res
+com.example.minorproject.app-play-services-basement-18.1.0-30 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\714e15f1dca4348d1b31237078b2a16f\transformed\play-services-basement-18.1.0\res
+com.example.minorproject.app-profileinstaller-1.3.0-31 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\7ddd1ef2de10b01e0b65362dbb6c1b2a\transformed\profileinstaller-1.3.0\res
+com.example.minorproject.app-material-1.9.0-32 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\7def0bc8bac93e839e3de1239dbe7ad1\transformed\material-1.9.0\res
+com.example.minorproject.app-lifecycle-viewmodel-savedstate-2.6.2-33 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\84714da60c8b1876a6d8e9b4e47b9b4a\transformed\lifecycle-viewmodel-savedstate-2.6.2\res
+com.example.minorproject.app-ui-unit-1.4.0-34 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\8b10559c267f734521679024023dab97\transformed\ui-unit-1.4.0\res
+com.example.minorproject.app-ui-text-1.4.0-35 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\8b5d3fab0c353c4ab8f0d9a935bffc9e\transformed\ui-text-1.4.0\res
+com.example.minorproject.app-lifecycle-runtime-ktx-2.6.2-36 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\8bd5c57a4d13f624cce7444e03f59f0a\transformed\lifecycle-runtime-ktx-2.6.2\res
+com.example.minorproject.app-animation-1.4.0-37 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\944a50f033f2860d6cba74b8f76b950c\transformed\animation-1.4.0\res
+com.example.minorproject.app-play-services-base-18.1.0-38 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\97d8d1d1db8c2a0d7b17ee2773a9ef5c\transformed\play-services-base-18.1.0\res
+com.example.minorproject.app-ui-graphics-1.4.0-39 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\9b34244f6f5ca14c9808428c6044bb82\transformed\ui-graphics-1.4.0\res
+com.example.minorproject.app-core-ktx-1.12.0-40 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\a399b6a7da90b7e5a16920ebf138e756\transformed\core-ktx-1.12.0\res
+com.example.minorproject.app-ui-1.4.0-41 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\a48663ed50627a29c1e835615d35f318\transformed\ui-1.4.0\res
+com.example.minorproject.app-runtime-saveable-1.4.0-42 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\a9c17c364e3898246c977816f5d2ffb6\transformed\runtime-saveable-1.4.0\res
+com.example.minorproject.app-core-runtime-2.2.0-43 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\afce8718320f5ebe65fff86b29b8a5a2\transformed\core-runtime-2.2.0\res
+com.example.minorproject.app-activity-ktx-1.7.2-44 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\b425ee9a324c6c94e1f795e49885c5e9\transformed\activity-ktx-1.7.2\res
+com.example.minorproject.app-lifecycle-livedata-2.6.2-45 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\b5b71bf4aaced278e6cf2ac465db3174\transformed\lifecycle-livedata-2.6.2\res
+com.example.minorproject.app-play-services-maps-18.1.0-46 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\bdea25aa8f7b19cdd01a4e285f1f963d\transformed\play-services-maps-18.1.0\res
+com.example.minorproject.app-browser-1.4.0-47 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\be968c7a751058388a498aedb1dc5f04\transformed\browser-1.4.0\res
+com.example.minorproject.app-activity-1.7.2-48 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\c18f5a5e9eb3a70395c828b4c76ec9fa\transformed\activity-1.7.2\res
+com.example.minorproject.app-core-1.12.0-49 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\c1bca80ea26e9c15ad85232751a0d700\transformed\core-1.12.0\res
+com.example.minorproject.app-ui-geometry-1.4.0-50 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\c51df07f02629c2b9f16fad75d01e12f\transformed\ui-geometry-1.4.0\res
+com.example.minorproject.app-savedstate-ktx-1.2.1-51 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\c74e16cbb7389630dbb7f86522805e63\transformed\savedstate-ktx-1.2.1\res
+com.example.minorproject.app-emoji2-views-helper-1.3.0-52 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\ca9fa427cbdba57f0196304fadf9a411\transformed\emoji2-views-helper-1.3.0\res
+com.example.minorproject.app-material-1.4.0-53 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\cc6d553fef77f9dada2678f78e8ebddd\transformed\material-1.4.0\res
+com.example.minorproject.app-material-icons-core-1.4.0-54 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\d2267fb4b92e658bed134ec989ce226c\transformed\material-icons-core-1.4.0\res
+com.example.minorproject.app-appcompat-1.6.1-55 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\d33fdebdfa17f49e3ae58608526433c0\transformed\appcompat-1.6.1\res
+com.example.minorproject.app-ui-tooling-preview-1.4.0-56 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\da3f52d106942253b1e03ff86af4a15e\transformed\ui-tooling-preview-1.4.0\res
+com.example.minorproject.app-material-ripple-1.4.0-57 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\e2f69047be0ffc8168491a9ea53b9c2d\transformed\material-ripple-1.4.0\res
+com.example.minorproject.app-transition-1.2.0-58 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\e382f62a8d2ed6fba6013d187e6adf34\transformed\transition-1.2.0\res
+com.example.minorproject.app-coordinatorlayout-1.1.0-59 C:\Program Files\Android\Android Studio1\jbr\caches\transforms-3\e9657437726f44ea1e7d8eda431a78d9\transformed\coordinatorlayout-1.1.0\res
+com.example.minorproject.app-google-services-60 D:\MinorProjectStudent\app\build\generated\res\google-services\debug
+com.example.minorproject.app-resValues-61 D:\MinorProjectStudent\app\build\generated\res\resValues\debug
+com.example.minorproject.app-packageDebugResources-62 D:\MinorProjectStudent\app\build\intermediates\incremental\debug\packageDebugResources\merged.dir
+com.example.minorproject.app-packageDebugResources-63 D:\MinorProjectStudent\app\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
+com.example.minorproject.app-merged_res-64 D:\MinorProjectStudent\app\build\intermediates\merged_res\debug
+com.example.minorproject.app-debug-65 D:\MinorProjectStudent\app\src\debug\res
+com.example.minorproject.app-main-66 D:\MinorProjectStudent\app\src\main\res

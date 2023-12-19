@@ -1,0 +1,148 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/bgblue"
+    tools:context=".BusFragment">
+
+    <com.google.android.material.navigation.NavigationView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/my_primary"
+        android:paddingTop="50dp" />
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="130dp"
+        android:gravity="center"
+        android:orientation="vertical">
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:src="@drawable/bishal"
+            />
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Bishal Kumar Pandey"
+            android:fontFamily="sans-serif-medium"
+            android:textStyle="bold"
+            android:textColor="#003F91"
+            android:textSize="17sp"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Team Leader"
+            android:fontFamily="sans-serif-medium"
+
+            android:textSize="15sp"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Roll No: 21BtechIT05"
+            android:fontFamily="sans-serif-medium"
+
+            android:textSize="15sp"
+            android:gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="..........................................................................................."
+            android:fontFamily="sans-serif-medium"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:paddingBottom="10dp"/>
+
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:src="@drawable/kyrshan" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Kyrshanborlang Lyngdoh Nonglait"
+            android:fontFamily="sans-serif-medium"
+            android:textStyle="bold"
+            android:textColor="#003F91"
+            android:textSize="17sp"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Team Member"
+            android:fontFamily="sans-serif-medium"
+
+            android:textSize="15sp"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Roll No: 21BtechLIT10"
+            android:fontFamily="sans-serif-medium"
+            android:textSize="15sp"
+            android:gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="..........................................................................................."
+            android:fontFamily="sans-serif-medium"
+            android:textSize="15sp"
+            android:gravity="center"
+            android:paddingBottom="10dp"/>
+        <ImageView
+            android:layout_width="90dp"
+            android:layout_height="90dp"
+            android:src="@drawable/vikas"
+            />
+
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Vikas Kumar Vidyarthi"
+            android:fontFamily="sans-serif-medium"
+            android:textStyle="bold"
+            android:textColor="#003F91"
+            android:textSize="17sp"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Team Member"
+            android:fontFamily="sans-serif-medium"
+            android:textSize="15sp"
+            android:gravity="center"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Roll No: 21BtechIT08"
+            android:fontFamily="sans-serif-medium"
+
+            android:textSize="15sp"
+            android:gravity="center"/>
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="..........................................................................................."
+            android:fontFamily="sans-serif-medium"
+            android:textSize="15sp"
+            android:gravity="center"/>
+
+    </LinearLayout>
+    <!-- Add similar layouts for other buses -->
+
+</FrameLayout>
